@@ -1,0 +1,7 @@
+{
+  "prompt": "your full prompt here",
+  "model": "DALL·E 3",
+  "dataset_name": "your dataset name",
+  "dataset_url": "your dataset link",
+  "insight": "your one-sentence insight"
+}
