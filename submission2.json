@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic photograph of a student memorizing answers from a textbook, surrounded by identical practice papers, but completely confused when facing a slightly different question, classroom setting, natural lighting, highly realistic, no text, no diagrams",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A student memorizes training examples but fails to generalize to new questions"
+}
